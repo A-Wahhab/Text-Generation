@@ -1,2 +1,3 @@
 # Text-Generation
 Simple Text Generation or Text Completion using LSTM 
+As the internet has been flooded with billions of users in recent years, the need for automation with respect to chat bots, auto completion, and autocorrect has seen a massive demand in the space. We are trying to implement a text generating algorithm such that it generates a sentence based upon a word/sentence that is initially given by the user. This project will work just like an autocomplete algorithm that is implemented in many of the text editors except that this algorithm will generate entire sentences based upon the word/phrase given by the user.
